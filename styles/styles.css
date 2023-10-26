@@ -1,8 +1,5 @@
-
-
-
-header, .hero, .content, .sidebar, footer {
-    border: 3px solid white;
+header, .hero, .content > p, .sidebar, footer {
+    margin: 1px;
     padding: 15px;
 }
 
